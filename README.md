@@ -9,4 +9,3 @@ A poniższy pokazuje wyniki uczenia tej samej sieci z wygładzaniem powierzchni 
 
 Wyniki wachają się o 5-10%. Dodatkowo sieć uczy się lepiej o kilka procent.
 
-Cały kod znajduje się w pliku artemis-02 
