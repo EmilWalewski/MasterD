@@ -1,7 +1,10 @@
 # MasterD!
 
-[image](https://user-images.githubusercontent.com/48484590/192116517-c6798766-9087-48d1-ae37-64e1c10e12cb.png)
+<!-- ![plot](https://github.com/EmilWalewski/MasterD/blob/master/artemis-02.png?raw=true) -->
 
-![plot](https://github.com/EmilWalewski/MasterD/blob/master/artemis-02.png?raw=true)
-
+Screenshot pokazuje wyniki uczenia sieci neuronowej bez wygładzania sieci
 <img src="https://github.com/EmilWalewski/MasterD/blob/master/artemis-02.png">
+
+A poniższy pokazuje wyniki uczenia tej samej sieci z wygładzaniem powierzchni decyzyjnych
+<img src="https://github.com/EmilWalewski/MasterD/blob/master/artemis-02-linear-adapter.png">
+
