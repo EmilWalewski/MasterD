@@ -1,5 +1,3 @@
-# MasterD!
-
 <!-- ![plot](https://github.com/EmilWalewski/MasterD/blob/master/artemis-02.png?raw=true) -->
 
 Screenshot pokazuje wyniki uczenia sieci neuronowej bez wygładzania sieci
